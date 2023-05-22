@@ -1,0 +1,7 @@
+.NotFound{
+    width: 30vw;
+    margin: 5% auto;
+    color: red;
+    /* font-size: 3rem; */
+    text-align: center;
+}

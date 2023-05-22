@@ -1,0 +1,6 @@
+table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    margin: 2rem auto;
+}
